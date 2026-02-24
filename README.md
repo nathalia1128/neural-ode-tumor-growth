@@ -133,6 +133,16 @@ neural-ode-tumor-growth/
 **Conclusión:** Las Neural ODEs superan consistentemente a las RNNs. Sin embargo, presentan limitaciones al modelar sistemas con retardo temporal, lo que motiva el desarrollo de las NDDEs.
 
 ---
+## 🍺 Divulgación Científica
+Este trabajo también fue presentado en formato de charla divulgativa 
+bajo el título "Del enfriamiento de la cerveza a la inteligencia artificial",
+explicando las ecuaciones diferenciales desde la Ley de Enfriamiento de Newton
+hasta las Neural ODEs, dirigido a público general.
+
+- 📊 [Presentación: Math & Beer](outreach/math_and_beer_talk.pptx)
+- 💻 [Simulación interactiva](outreach/simulation_beer_cooling.ipynb)
+  
+---
 
 ## 🛠️ Instalación
 
